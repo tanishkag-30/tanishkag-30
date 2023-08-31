@@ -5,20 +5,21 @@ I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to s
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-[![Linkedin](https://img.shields.io/badge/-Chinmay31-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-sabnis-3ab528204/)
-[![Gmail](https://img.shields.io/badge/-chinmaysabnis-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sabnischinmay31@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Chinmay31-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-gupta-ba0a3321a/)
+[![Gmail](https://img.shields.io/badge/-chinmaysabnis-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tanishkagupta34@gmail.com)
 
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
 * Social-Media-App 😍
+* My Portfolio🫡
+* Social Help Application
+* Medicine Demand Estimation Through ML
 
  ### 🌱 Currently Learning :
- *   React.js 
- * Advanced techniques in Node.js backend development :
-    - Asynchronous Programming
-    - Microservices Architecture
-    - Middleware Chains
-    - Database Interactions
+ *   React.js
+ *   Power Bi
+ *   Wordpress
+ * Advanced techniques in Node.js backend development
   
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p align="left">
