@@ -4,7 +4,7 @@
 I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to solve **real-world problems**:earth_asia:,ML projects:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
+- 📫 How to reach me **guptatanishka34@gmail.com**
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
 * Social-Media-App 😍
@@ -17,11 +17,7 @@ I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to s
  *   Power Bi
  *   Wordpress
  * Advanced techniques in Node.js backend development
-<h1 align="center">Hello 👋, I'm Tanishka Gupta</h1>
-<h3 align="center">A passionate Web developer and ML enthusiast from India</h3>
-
-- 📫 How to reach me **guptatanishka34@gmail.com**
-
+   
 - 📄 Know about my experiences [https://drive.google.com/file/d/1f8iU8hfgkM95U7UTw74IdmVzSdq_xmNy/view?usp=sharing](https://drive.google.com/file/d/1f8iU8hfgkM95U7UTw74IdmVzSdq_xmNy/view?usp=sharing)
 
 - ⚡ Fun fact **I am into Quantum Physics.**
