@@ -5,9 +5,6 @@ I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to s
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-[![Linkedin](https://img.shields.io/badge/-Chinmay31-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-gupta-ba0a3321a/)
-[![Gmail](https://img.shields.io/badge/-chinmaysabnis-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tanishkagupta34@gmail.com)
-
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
 * Social-Media-App 😍
@@ -20,9 +17,6 @@ I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to s
  *   Power Bi
  *   Wordpress
  * Advanced techniques in Node.js backend development
-
-<h1 align="center">Hello 👋, I'm Tanishka Gupta</h1>
-<h3 align="center">A passionate Web developer and ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishkag-30&label=Profile%20views&color=0e75b6&style=flat" alt="tanishkag-30" /> </p>
 
