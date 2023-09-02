@@ -1,4 +1,4 @@
-![logo](https://github.com/tanishkag-30/tanishkag-30/blob/main/github-header-image%20(7).png)
+![Header](https://github.com/tanishkag-30/tanishkag-30/blob/main/github-header-image%20(7).png)
 
 ### Hello There! 😄🙏👋
 
