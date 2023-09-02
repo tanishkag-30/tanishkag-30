@@ -47,7 +47,7 @@ I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to s
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tanishkag-30/tanishkag-30/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -58,7 +58,7 @@ I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to s
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tanishkag-30&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   
 </div>
