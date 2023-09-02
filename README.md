@@ -1,4 +1,4 @@
-(./your-header-image-name.png)
+<img align="right" src="![Header]./your-header-image-name.png">
 
 <!--Introduction -->
 I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to solve **real-world problems**:earth_asia:,ML projects:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
