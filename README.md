@@ -1,4 +1,5 @@
-![logo] (https://github.com/tanishkag-30/tanishkag-30/blob/main/github-header-image.png)
+![logo](https://github.com/tanishkag-30/tanishkag-30/blob/main/github-header-image.png)
+
 ### Hello There! 😄🙏👋
 
 <!--Introduction -->
