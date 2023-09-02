@@ -1,5 +1,5 @@
 <picture>
-  <img src="![Header](./your-header-image-name.png).png">
+  ![Header](./your-header-image-name.png).png"
 </picture>
 
 ### Hello There!😄🙏👋
