@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1HMlvKoE_eDLkLovJt-iHKiAXDv42FaCA/view?usp=sharing)
+![logo](github-header-image (7).png)
 
 ### Hello There! 😄🙏👋
 
