@@ -51,11 +51,6 @@ I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to s
   <h2>🐍 My Contributions 🐍</h2>
   
  ![snake gif](https://github.com/tanishkag-30/tanishkag-30/blob/output/github-contribution-grid-snake.gif)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 </div>
 </div>
 
