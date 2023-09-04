@@ -11,7 +11,7 @@ I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to s
 
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
-*Tilting Parameters of a Game
+* Tilting Parameters of a Game
 * Social-Media-App 😍
 * My Portfolio🫡
 * Social Help Application
