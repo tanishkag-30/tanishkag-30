@@ -25,11 +25,11 @@ I'm Tanishka Gupta! I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to s
  *   Deep Learning- NPL
  * Advanced techniques in Node.js backend development
 
-- 📫 How to reach me **guptatanishka34@gmail.com**
+📫 How to reach me **guptatanishka34@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f8iU8hfgkM95U7UTw74IdmVzSdq_xmNy/view?usp=sharing](https://drive.google.com/file/d/1f8iU8hfgkM95U7UTw74IdmVzSdq_xmNy/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1f8iU8hfgkM95U7UTw74IdmVzSdq_xmNy/view?usp=sharing](https://drive.google.com/file/d/1f8iU8hfgkM95U7UTw74IdmVzSdq_xmNy/view?usp=sharing)
 
-- ⚡ Fun fact **I am into Quantum Physics.**
+⚡ Fun fact **I am into Quantum Physics.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
