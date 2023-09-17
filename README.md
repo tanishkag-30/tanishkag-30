@@ -1,6 +1,6 @@
 ![Header](https://github.com/tanishkag-30/tanishkag-30/blob/main/github-header-image%20(7).png)
 
-# ![](Hello(1).gif)[Tanishka Gupta!](https://github.com/tanishkag-30) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# ![](Hello(1).gif)[TANISHKA GUPTA](https://github.com/tanishkag-30) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <!--Introduction -->
