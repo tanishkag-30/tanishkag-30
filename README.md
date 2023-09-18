@@ -2,7 +2,6 @@
 
 # ![](Hello(1).gif)[TANISHKA GUPTA](https://github.com/tanishkag-30) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
 <!--Introduction -->
 Urf Tanny!🙏😂 I'm a  **Web Developer/ML Enthusiast**:iphone:, looking to solve **real-world problems**:earth_asia:,ML projects:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
 <br>
